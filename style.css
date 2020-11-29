@@ -1,0 +1,26 @@
+#intro
+{
+    text-align:center;
+    background:linear-gradient(blue 0%, silver 50%);
+    height:500px;
+}
+img
+{
+    height:350px;
+    width:350px;
+    border:dashed;
+    margin-top:50px;
+}
+p
+{
+    max-width:500px;
+    margin:25px auto;
+    padding:20px;
+    font-size:20px;
+    font-family:monospace;
+   
+}
+h1
+{
+    font-family:algerian;
+}
